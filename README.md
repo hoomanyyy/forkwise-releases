@@ -5,7 +5,7 @@
 # Download Forkwise
 
 **The open-source AI engineer that plans, builds, runs and checks real projects.**
-Version 4.2.1 · November 23, 2026
+Version 4.2.2 · November 23, 2026
 
 [![Windows](https://img.shields.io/badge/Windows-download-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/hoomanyyy/forkwise-releases/releases/download/current/forkwise-desktop-windows.exe)
 [![macOS](https://img.shields.io/badge/macOS-download-1a1915?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/hoomanyyy/forkwise-releases/releases/download/current/forkwise-desktop-macos-arm64.dmg)
