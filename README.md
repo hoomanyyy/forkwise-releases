@@ -5,7 +5,7 @@
 # Download Forkwise
 
 **The open-source AI engineer that plans, builds, runs and checks real projects.**
-Version 4.0.0 · November 23, 2026
+Version 4.1.0 · November 23, 2026
 
 [![Windows](https://img.shields.io/badge/Windows-download-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/hoomanyyy/forkwise-releases/releases/download/current/forkwise-desktop-windows.exe)
 [![macOS](https://img.shields.io/badge/macOS-download-1a1915?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/hoomanyyy/forkwise-releases/releases/download/current/forkwise-desktop-macos-arm64.dmg)
@@ -14,7 +14,7 @@ Version 4.0.0 · November 23, 2026
 
 [Website](https://forkwiseai.com) · [Open-source core](https://github.com/hoomanyyy/Forkwise-AI) · [Docs](https://forkwiseai.com/docs) · [All files](https://github.com/hoomanyyy/forkwise-releases/releases/tag/current)
 
-<img src="https://forkwiseai.com/site/desktop-chat.webp?v=4" alt="Forkwise Desktop: explorer, editor, terminal and the agent" width="100%">
+<img src="https://forkwiseai.com/site/desktop-chat.webp?v=5" alt="Forkwise Desktop: chats by folder and the start screen" width="100%">
 
 </div>
 
@@ -22,7 +22,9 @@ Version 4.0.0 · November 23, 2026
 
 A Cursor-style editor built around an agent that finishes the job.
 
-- **This computer or Cloud.** Work in your own folders and terminal, or switch the same window to a cloud workspace from the title bar.
+- **Agents view.** Chats grouped by folder, a clean start screen, and a full editor one click away.
+- **This PC or Cloud.** Work in your own folders and terminal, or on a private cloud machine.
+- **Talk with it.** Dictate, or have a voice conversation and interrupt it any time.
 - **A real editor.** File explorer, Monaco tabs, search in files, Ctrl P and a command palette.
 - **Real terminals.** PowerShell, cmd, Git Bash, WSL, bash or zsh, several at once.
 - **The agent beside your code.** Every read, edit and command shows up as it happens. Choose Agent, Plan or Ask first.
